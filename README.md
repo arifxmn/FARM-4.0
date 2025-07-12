@@ -17,7 +17,7 @@ I'm very excited to see how this project evolves! This can be a testament to the
 ### Here's a glimpse into the early stages of the project's development:
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1HM929ud7U-fJcZ7GHPj3bCf7C7n1KoAN/view">
+  <a href="https://drive.google.com/file/d/1HM929ud7U-fJcZ7GHPj3bCf7C7n1KoAN/view" target="_blank">
     <img src="assets/thumbnail.png" alt="Project Demonstation" width="600" style="border:1px solid #ccc; border-radius: 10px;">
   </a>
 </p>
