@@ -1,12 +1,12 @@
-# Farm 4.0: Revolutionizing Traditional Farm Management Using Cloud-IoT
+# FARM 4.0: Revolutionizing Farm Management Using Cloud-IoT
 
 My passion and unwavering interest for Cloud Computing and my academic background in IoT, fueled my dedication to this project. This innovative initiative demonstrates how seamlessly Cloud and IoT can work together, like butter and bread!
 
 On one side, IoT smartifies and automates the entire system, connecting devices to the cloud server. On the other side, Cloud Computing enables remote monitoring and control from anywhere in the world. It also handles storing, processing, and analyzing data from the IoT system. Together, IoT and Cloud Computing ensure reliable and efficient operation.
 
-For this project, I used 𝐀𝐖𝐒 𝐄𝐂𝟐 𝐚𝐧𝐝 𝐑𝐃𝐒 service to implement the cloud server and the web panel, which is entirely custom-made. Unlike the usual third-party services like Blynk or ThingSpeak for remote monitoring, I developed my own platform tailored specifically for this project.
+For this project, I used 𝐀𝐖𝐒 𝐄𝐂𝟐 𝐚𝐧𝐝 𝐑𝐃𝐒 service to implement the cloud server and the web panel, which is entirely custom-made. Unlike the usual third-party services like Blynk or ThingSpeak for remote monitoring, I developed my own dashboard tailored specifically for this project.
 
-While the project may seem simple at first glance, integrating and merging various underlying technologies (IoT, WSN, Networking, Frontend, Backend, Database, Cloud Setup, API development, and more) to work seamlessly was a tremendous challenge. I'm incredibly proud of making it happen!
+While the project may seem simple at first glance, integrating and merging various underlying technologies (IoT, WSN, Networking, Backend, Database, Cloud Setup, API etc) to work seamlessly was really a challenge. I'm incredibly happy to make it happen!
 
 This journey was challenging yet immensely rewarding. I learned new things, applied my existing knowledge, and gained invaluable hands-on experience in how multiple technologies can work together harmoniously.
 
@@ -16,13 +16,10 @@ I'm very excited to see how this project evolves! This can be a testament to the
 
 ### Here's a glimpse into the early stages of the project's development:
 
-[Project Demonstation](/assets/Farm4.0_Demonstration.mp4)
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1HM929ud7U-fJcZ7GHPj3bCf7C7n1KoAN/view">
-    <img src="assets/thumbnail.jpg" alt="Demo Video" width="600" style="border:1px solid #ccc; border-radius: 10px;">
+    <img src="assets/thumbnail.png" alt="Project Demonstation" width="600" style="border:1px solid #ccc; border-radius: 10px;">
   </a>
 </p>
 
-[![Project Demonstation](assets/thumbnail.jpg)](/assets/Farm4.0_Demonstration.mp4)
-
+### [Watch the project demonstation](https://drive.google.com/file/d/1HM929ud7U-fJcZ7GHPj3bCf7C7n1KoAN/view)
